@@ -1,310 +1,310 @@
 Compuesto,fase,fukui
-89,gas,0.5263
-89,agua,0.5505
-89,decalina,0.536
-90,gas,0.506
-90,agua,0.5353
-90,decalina,0.5179
-4,gas,0.5114
-4,agua,0.5379
-4,decalina,0.5223
-91,gas,0.487
-91,agua,0.5207
-91,decalina,0.5007
-5,gas,0.493
-5,agua,0.5245
-5,decalina,0.5055
-9,gas,0.4832
-9,agua,0.5139
-9,decalina,0.495
-6,gas,0.4777
-6,agua,0.513
-6,decalina,0.4917
-94,gas,0.4864
-94,agua,0.5197
-94,decalina,0.4993
-10,gas,0.4754
-10,agua,0.5208
-10,decalina,0.4942
-95,gas,0.4944
-95,agua,0.5262
-95,decalina,0.5071
-11,gas,0.4707
-11,agua,0.4871
-11,decalina,0.4846
-13,gas,0.4482
-13,agua,0.4955
-13,decalina,0.4674
-3,gas,0.4936
-3,agua,0.537
-3,decalina,0.5142
-12,gas,0.4577
-12,agua,0.4965
-12,decalina,0.4729
-1,gas,0.5522
-1,agua,0.5666
-1,decalina,0.5582
-2,gas,0.5231
-2,agua,0.55
-2,decalina,0.5351
-92,gas,0.4604
-92,agua,0.4935
-92,decalina,0.4745
-93,gas,0.4516
-93,agua,0.4676
-93,decalina,0.4482
-7,gas,0.4511
-7,agua,0.4868
-7,decalina,0.4652
-8,gas,0.438
-8,agua,0.4754
-8,decalina,0.4527
-14,gas,0.519
-14,agua,0.3491
-14,decalina,0.3384
-98,gas,0.2986
-98,agua,0.3042
-98,decalina,0.3015
-96,gas,0.3317
-96,agua,0.3406
-96,decalina,0.3346
-97,gas,0.3142
-97,agua,0.3241
-97,decalina,0.3182
-102,gas,0.278
-102,agua,0.2977
-102,decalina,0.2867
-101,gas,0.2826
-101,agua,0.2826
-101,decalina,0.2901
-100,gas,0.2847
-100,agua,0.2997
-100,decalina,0.2912
-15,gas,0.3023
-15,agua,0.3098
-15,decalina,0.3063
-82,gas,0.2584
-82,agua,0.2704
-82,decalina,0.2646
-72,gas,0.26
-72,agua,0.2702
-72,decalina,0.2653
-85,gas,0.2485
-85,agua,0.2639
-85,decalina,0.2537
-77,gas,0.2349
-77,agua,0.2364
-77,decalina,0.238
-71,gas,0.213
-71,agua,0.095
-71,decalina,0.1543
-55,gas,0.2617
-55,agua,0.2709
-55,decalina,0.2663
-79,gas,0.1789
-79,agua,0.08
-79,decalina,0.109
-83,gas,0.2264
-83,agua,0.2357
-83,decalina,0.2312
-66,gas,0.2448
-66,agua,0.2481
-66,decalina,0.2476
-76,gas,0.2462
-76,agua,0.254
-76,decalina,0.2508
-51,gas,0.2514
-51,agua,0.2339
-51,decalina,0.2503
-54,gas,0.2586
-54,agua,0.2625
-54,decalina,0.2614
-99,gas,0.1827
-99,agua,0.1607
-99,decalina,0.1745
-36,gas,0.2621
-36,agua,0.2648
-36,decalina,0.2654
-84,gas,0.2352
-84,agua,0.248
-84,decalina,0.2414
-75,gas,0.2426
-75,agua,0.2422
-75,decalina,0.2457
-56,gas,0.2475
-56,agua,0.2328
-56,decalina,0.248
-65,gas,0.2461
-65,agua,0.24
-65,decalina,0.2465
-58,gas,0.2731
-58,agua,0.2855
-58,decalina,0.279
-40,gas,0.2722
-40,agua,0.2858
-40,decalina,0.279
-67,gas,0.217
-67,agua,0.0704
-67,decalina,0.102
-37,gas,0.2582
-37,agua,0.2675
-37,decalina,0.2641
-35,gas,0.2626
-35,agua,0.2637
-35,decalina,0.2645
-39,gas,0.2691
-39,agua,0.2775
-39,decalina,0.2735
-44,gas,0.2478
-44,agua,0.2392
-44,decalina,0.2475
-52,gas,0.2445
-52,agua,0.2413
-52,decalina,0.2465
-53,gas,0.2499
-53,agua,0.2597
-53,decalina,0.2546
-80,gas,0.2436
-80,agua,0.2568
-80,decalina,0.2498
-49,gas,0.2478
-49,agua,0.2662
-49,decalina,0.2501
-104,gas,0.1443
-104,agua,0.1589
-104,decalina,0.142
-38,gas,0.2745
-38,agua,0.2845
-38,decalina,0.2791
-50,gas,0.2523
-50,agua,0.2597
-50,decalina,0.2557
-73,gas,0.236
-73,agua,0.2425
-73,decalina,0.2403
-57,gas,0.2558
-57,agua,0.2635
-57,decalina,0.2603
-45,gas,0.2558
-45,agua,0.2586
-45,decalina,0.2585
-48,gas,0.2515
-48,agua,0.2691
-48,decalina,0.253
-63,gas,0.2213
-63,agua,0.201
-63,decalina,0.2176
-64,gas,0.2384
-64,agua,0.2407
-64,decalina,0.2413
-74,gas,0.2353
-74,agua,0.2419
-74,decalina,0.2398
-70,gas,0.2287
-70,agua,0.2292
-70,decalina,0.2308
-78,gas,0.2431
-78,agua,0.2549
-78,decalina,0.249
-31,gas,0.278
-31,agua,0.2869
-31,decalina,0.2821
-69,gas,0.2246
-69,agua,0.2083
-69,decalina,0.2224
-33,gas,0.2577
-33,agua,0.2635
-33,decalina,0.2609
-41,gas,0.2593
-41,agua,0.2659
-41,decalina,0.2633
-32,gas,0.2599
-32,agua,0.2628
-32,decalina,0.2618
-81,gas,0.2193
-81,agua,0.229
-81,decalina,0.2236
-42,gas,0.2565
-42,agua,0.2631
-42,decalina,0.2603
-59,gas,0.2471
-59,agua,0.2598
-59,decalina,0.2528
-28,gas,0.1592
-28,agua,0.1323
-28,decalina,0.1492
-34,gas,0.2559
-34,agua,0.2665
-34,decalina,0.2609
-47,gas,0.247
-47,agua,0.2565
-47,decalina,0.2513
-60,gas,0.2499
-60,agua,0.2578
-60,decalina,0.2503
-46,gas,0.2325
-46,agua,0.2178
-46,decalina,0.231
-61,gas,0.243
-61,agua,0.256
-61,decalina,0.2478
-26,gas,0.1812
-26,agua,0.152
-26,decalina,0.1679
-27,gas,0.1674
-27,agua,0.1434
-27,decalina,0.1558
-68,gas,0.2259
-68,agua,0.2225
-68,decalina,0.2278
-87,gas,0.1154
-87,agua,0.0857
-87,decalina,0.1031
-88,gas,0.1124
-88,agua,0.0836
-88,decalina,0.1005
-18,gas,0.3698
-18,agua,0.3664
-18,decalina,0.3699
-86,gas,0.1408
-86,agua,0.1232
-86,decalina,0.1342
-29,gas,0.1604
-29,agua,0.1433
-29,decalina,0.1552
-103,gas,0.1
-103,agua,0.094
-103,decalina,0.0974
-23,gas,0.2391
-23,agua,0.2072
-23,decalina,0.2274
-24,gas,0.1938
-24,agua,0.1561
-24,decalina,0.1789
-25,gas,0.2084
-25,agua,0.1775
-25,decalina,0.1967
-30,gas,0.1052
-30,agua,0.0797
-30,decalina,0.095
-21,gas,0.2308
-21,agua,0.1935
-21,decalina,0.2159
-22,gas,0.2039
-22,agua,0.1679
-22,decalina,0.1896
-19,gas,0.3552
-19,agua,0.3535
-19,decalina,0.3566
-43,gas,0.2472
-43,agua,0.255
-43,decalina,0.2511
-17,gas,0.3759
-17,agua,0.3653
-17,decalina,0.3727
-20,gas,0.3422
-20,agua,0.3409
-20,decalina,0.3433
-16,gas,0.3851
-16,agua,0.3662
-16,decalina,0.378
+CA 89,gas,0.5263
+CA 89,agua,0.5505
+CA 89,decalina,0.536
+CA 90,gas,0.506
+CA 90,agua,0.5353
+CA 90,decalina,0.5179
+CA 4,gas,0.5114
+CA 4,agua,0.5379
+CA 4,decalina,0.5223
+CA 91,gas,0.487
+CA 91,agua,0.5207
+CA 91,decalina,0.5007
+CA 5,gas,0.493
+CA 5,agua,0.5245
+CA 5,decalina,0.5055
+CA 9,gas,0.4832
+CA 9,agua,0.5139
+CA 9,decalina,0.495
+CA 6,gas,0.4777
+CA 6,agua,0.513
+CA 6,decalina,0.4917
+CA 94,gas,0.4864
+CA 94,agua,0.5197
+CA 94,decalina,0.4993
+CA 10,gas,0.4754
+CA 10,agua,0.5208
+CA 10,decalina,0.4942
+CA 95,gas,0.4944
+CA 95,agua,0.5262
+CA 95,decalina,0.5071
+CA 11,gas,0.4707
+CA 11,agua,0.4871
+CA 11,decalina,0.4846
+CA 13,gas,0.4482
+CA 13,agua,0.4955
+CA 13,decalina,0.4674
+CA 3,gas,0.4936
+CA 3,agua,0.537
+CA 3,decalina,0.5142
+CA 12,gas,0.4577
+CA 12,agua,0.4965
+CA 12,decalina,0.4729
+CA 1,gas,0.5522
+CA 1,agua,0.5666
+CA 1,decalina,0.5582
+CA 2,gas,0.5231
+CA 2,agua,0.55
+CA 2,decalina,0.5351
+CA 92,gas,0.4604
+CA 92,agua,0.4935
+CA 92,decalina,0.4745
+CA 93,gas,0.4516
+CA 93,agua,0.4676
+CA 93,decalina,0.4482
+CA 7,gas,0.4511
+CA 7,agua,0.4868
+CA 7,decalina,0.4652
+CA 8,gas,0.438
+CA 8,agua,0.4754
+CA 8,decalina,0.4527
+CA 14,gas,0.519
+CA 14,agua,0.3491
+CA 14,decalina,0.3384
+CA 98,gas,0.2986
+CA 98,agua,0.3042
+CA 98,decalina,0.3015
+CA 96,gas,0.3317
+CA 96,agua,0.3406
+CA 96,decalina,0.3346
+CA 97,gas,0.3142
+CA 97,agua,0.3241
+CA 97,decalina,0.3182
+CA 102,gas,0.278
+CA 102,agua,0.2977
+CA 102,decalina,0.2867
+CA 101,gas,0.2826
+CA 101,agua,0.2826
+CA 101,decalina,0.2901
+CA 100,gas,0.2847
+CA 100,agua,0.2997
+CA 100,decalina,0.2912
+CA 15,gas,0.3023
+CA 15,agua,0.3098
+CA 15,decalina,0.3063
+CA 82,gas,0.2584
+CA 82,agua,0.2704
+CA 82,decalina,0.2646
+CA 72,gas,0.26
+CA 72,agua,0.2702
+CA 72,decalina,0.2653
+CA 85,gas,0.2485
+CA 85,agua,0.2639
+CA 85,decalina,0.2537
+CA 77,gas,0.2349
+CA 77,agua,0.2364
+CA 77,decalina,0.238
+CA 71,gas,0.213
+CA 71,agua,0.095
+CA 71,decalina,0.1543
+CA 55,gas,0.2617
+CA 55,agua,0.2709
+CA 55,decalina,0.2663
+CA 79,gas,0.1789
+CA 79,agua,0.08
+CA 79,decalina,0.109
+CA 83,gas,0.2264
+CA 83,agua,0.2357
+CA 83,decalina,0.2312
+CA 66,gas,0.2448
+CA 66,agua,0.2481
+CA 66,decalina,0.2476
+CA 76,gas,0.2462
+CA 76,agua,0.254
+CA 76,decalina,0.2508
+CA 51,gas,0.2514
+CA 51,agua,0.2339
+CA 51,decalina,0.2503
+CA 54,gas,0.2586
+CA 54,agua,0.2625
+CA 54,decalina,0.2614
+CA 99,gas,0.1827
+CA 99,agua,0.1607
+CA 99,decalina,0.1745
+CA 36,gas,0.2621
+CA 36,agua,0.2648
+CA 36,decalina,0.2654
+CA 84,gas,0.2352
+CA 84,agua,0.248
+CA 84,decalina,0.2414
+CA 75,gas,0.2426
+CA 75,agua,0.2422
+CA 75,decalina,0.2457
+CA 56,gas,0.2475
+CA 56,agua,0.2328
+CA 56,decalina,0.248
+CA 65,gas,0.2461
+CA 65,agua,0.24
+CA 65,decalina,0.2465
+CA 58,gas,0.2731
+CA 58,agua,0.2855
+CA 58,decalina,0.279
+CA 40,gas,0.2722
+CA 40,agua,0.2858
+CA 40,decalina,0.279
+CA 67,gas,0.217
+CA 67,agua,0.0704
+CA 67,decalina,0.102
+CA 37,gas,0.2582
+CA 37,agua,0.2675
+CA 37,decalina,0.2641
+CA 35,gas,0.2626
+CA 35,agua,0.2637
+CA 35,decalina,0.2645
+CA 39,gas,0.2691
+CA 39,agua,0.2775
+CA 39,decalina,0.2735
+CA 44,gas,0.2478
+CA 44,agua,0.2392
+CA 44,decalina,0.2475
+CA 52,gas,0.2445
+CA 52,agua,0.2413
+CA 52,decalina,0.2465
+CA 53,gas,0.2499
+CA 53,agua,0.2597
+CA 53,decalina,0.2546
+CA 80,gas,0.2436
+CA 80,agua,0.2568
+CA 80,decalina,0.2498
+CA 49,gas,0.2478
+CA 49,agua,0.2662
+CA 49,decalina,0.2501
+CA 104,gas,0.1443
+CA 104,agua,0.1589
+CA 104,decalina,0.142
+CA 38,gas,0.2745
+CA 38,agua,0.2845
+CA 38,decalina,0.2791
+CA 50,gas,0.2523
+CA 50,agua,0.2597
+CA 50,decalina,0.2557
+CA 73,gas,0.236
+CA 73,agua,0.2425
+CA 73,decalina,0.2403
+CA 57,gas,0.2558
+CA 57,agua,0.2635
+CA 57,decalina,0.2603
+CA 45,gas,0.2558
+CA 45,agua,0.2586
+CA 45,decalina,0.2585
+CA 48,gas,0.2515
+CA 48,agua,0.2691
+CA 48,decalina,0.253
+CA 63,gas,0.2213
+CA 63,agua,0.201
+CA 63,decalina,0.2176
+CA 64,gas,0.2384
+CA 64,agua,0.2407
+CA 64,decalina,0.2413
+CA 74,gas,0.2353
+CA 74,agua,0.2419
+CA 74,decalina,0.2398
+CA 70,gas,0.2287
+CA 70,agua,0.2292
+CA 70,decalina,0.2308
+CA 78,gas,0.2431
+CA 78,agua,0.2549
+CA 78,decalina,0.249
+CA 31,gas,0.278
+CA 31,agua,0.2869
+CA 31,decalina,0.2821
+CA 69,gas,0.2246
+CA 69,agua,0.2083
+CA 69,decalina,0.2224
+CA 33,gas,0.2577
+CA 33,agua,0.2635
+CA 33,decalina,0.2609
+CA 41,gas,0.2593
+CA 41,agua,0.2659
+CA 41,decalina,0.2633
+CA 32,gas,0.2599
+CA 32,agua,0.2628
+CA 32,decalina,0.2618
+CA 81,gas,0.2193
+CA 81,agua,0.229
+CA 81,decalina,0.2236
+CA 42,gas,0.2565
+CA 42,agua,0.2631
+CA 42,decalina,0.2603
+CA 59,gas,0.2471
+CA 59,agua,0.2598
+CA 59,decalina,0.2528
+CA 28,gas,0.1592
+CA 28,agua,0.1323
+CA 28,decalina,0.1492
+CA 34,gas,0.2559
+CA 34,agua,0.2665
+CA 34,decalina,0.2609
+CA 47,gas,0.247
+CA 47,agua,0.2565
+CA 47,decalina,0.2513
+CA 60,gas,0.2499
+CA 60,agua,0.2578
+CA 60,decalina,0.2503
+CA 46,gas,0.2325
+CA 46,agua,0.2178
+CA 46,decalina,0.231
+CA 61,gas,0.243
+CA 61,agua,0.256
+CA 61,decalina,0.2478
+CA 26,gas,0.1812
+CA 26,agua,0.152
+CA 26,decalina,0.1679
+CA 27,gas,0.1674
+CA 27,agua,0.1434
+CA 27,decalina,0.1558
+CA 68,gas,0.2259
+CA 68,agua,0.2225
+CA 68,decalina,0.2278
+CA 87,gas,0.1154
+CA 87,agua,0.0857
+CA 87,decalina,0.1031
+CA 88,gas,0.1124
+CA 88,agua,0.0836
+CA 88,decalina,0.1005
+CA 18,gas,0.3698
+CA 18,agua,0.3664
+CA 18,decalina,0.3699
+CA 86,gas,0.1408
+CA 86,agua,0.1232
+CA 86,decalina,0.1342
+CA 29,gas,0.1604
+CA 29,agua,0.1433
+CA 29,decalina,0.1552
+CA 103,gas,0.1
+CA 103,agua,0.094
+CA 103,decalina,0.0974
+CA 23,gas,0.2391
+CA 23,agua,0.2072
+CA 23,decalina,0.2274
+CA 24,gas,0.1938
+CA 24,agua,0.1561
+CA 24,decalina,0.1789
+CA 25,gas,0.2084
+CA 25,agua,0.1775
+CA 25,decalina,0.1967
+CA 30,gas,0.1052
+CA 30,agua,0.0797
+CA 30,decalina,0.095
+CA 21,gas,0.2308
+CA 21,agua,0.1935
+CA 21,decalina,0.2159
+CA 22,gas,0.2039
+CA 22,agua,0.1679
+CA 22,decalina,0.1896
+CA 19,gas,0.3552
+CA 19,agua,0.3535
+CA 19,decalina,0.3566
+CA 43,gas,0.2472
+CA 43,agua,0.255
+CA 43,decalina,0.2511
+CA 17,gas,0.3759
+CA 17,agua,0.3653
+CA 17,decalina,0.3727
+CA 20,gas,0.3422
+CA 20,agua,0.3409
+CA 20,decalina,0.3433
+CA 16,gas,0.3851
+CA 16,agua,0.3662
+CA 16,decalina,0.378
